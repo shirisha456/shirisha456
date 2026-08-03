@@ -41,7 +41,7 @@ Instead of static fitness applications, FitForge combines AI with scalable backe
 
 FastAPI • PostgreSQL • Redis • Celery • OpenAI • Next.js • TypeScript • Docker • AWS
 
-Live at: fitforge.18-221-88-168.sslip.io
+Live at: [fitforge.18-221-88-168.sslip.io](https://fitforge.18-221-88-168.sslip.io/)
 
 🔗 Repository
 
