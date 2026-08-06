@@ -144,7 +144,7 @@ OpenAI • Claude • GitHub Copilot • MCP • Scikit-learn
 
 ## 📫 Connect With Me
 
-📧 shirisha.gujja@sjsu.edu
+📧 shirishagujja456@gmail.com
 
 💼 LinkedIn: https://linkedin.com/in/shirisha-gujja-85a487215
 
