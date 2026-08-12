@@ -41,7 +41,7 @@ Instead of static fitness applications, this project combines AI with scalable b
 
 FastAPI • PostgreSQL • Redis • Celery • OpenAI • Next.js • TypeScript • Docker • AWS
 
-Live at: [fitforge.18-221-88-168.sslip.io](https://fitforge.18-221-88-168.sslip.io/)
+Live at: https://fitness-tracker.18-221-88-168.sslip.io
 
 🔗 Repository
 
