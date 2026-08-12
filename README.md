@@ -49,7 +49,7 @@ https://github.com/shirisha456/Fitness_Tracker
 
 ---
 
-## 💰 Meridian
+## 💰 Personal-Finance-Platform
 
 A cloud-native personal finance platform that helps users manage budgets, investments, and financial goals using AI-powered insights and scalable event-driven architecture.
 
@@ -70,7 +70,7 @@ FastAPI • PostgreSQL • Redis • Docker • AWS • OpenAI
 
 🔗 Repository
 
-https://github.com/shirisha456/Meridian
+[https://github.com/shirisha456/Meridian](https://github.com/shirisha456/Personal-Finance-Platform)
 
 ---
 
