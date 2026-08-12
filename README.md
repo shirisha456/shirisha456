@@ -38,7 +38,7 @@ AI-powered fitness platform delivering personalized workouts, meal plans, and in
 
 **Stack:** FastAPI · PostgreSQL · Redis · Celery · OpenAI · Next.js · TypeScript · Docker · AWS
 
-🔗 **[Live Demo](https://fitness-tracker.18-221-88-168.sslip.io)** &nbsp;·&nbsp; **[Source](https://github.com/shirisha456/Fitness_Tracker)**
+🔗 **[Live Demo](https://fitness-tracker.18-221-88-168.sslip.io)** &nbsp;·&nbsp; **[Repository](https://github.com/shirisha456/Fitness_Tracker)**
 
 ### 💰 [Personal Finance Platform](https://github.com/shirisha456/Personal-Finance-Platform)
 
@@ -52,7 +52,7 @@ Cloud-native personal finance platform built from the ground up to help users ma
 
 **Stack:** FastAPI · PostgreSQL · Redis · Docker · AWS · OpenAI
 
-🔗 **[Source](https://github.com/shirisha456/Personal-Finance-Platform)**
+🔗 **[Repository](https://github.com/shirisha456/Personal-Finance-Platform)**
 
 ---
 
