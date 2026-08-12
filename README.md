@@ -70,7 +70,7 @@ FastAPI • PostgreSQL • Redis • Docker • AWS • OpenAI
 
 🔗 Repository
 
-(https://github.com/shirisha456/Personal-Finance-Platform)](https://github.com/shirisha456/Personal-Finance-Platform)
+https://github.com/shirisha456/Personal-Finance-Platform
 
 ---
 
