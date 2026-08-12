@@ -22,7 +22,7 @@ I enjoy building scalable backend systems, AI-powered applications, and cloud-na
 
 # 🚀 Featured Projects
 
-## 🏋️ FitForge
+## 🏋️ Fitness Tracker
 
 An AI-powered fitness platform that delivers personalized workouts, meal plans, and intelligent coaching experiences through modern cloud-native architecture.
 
@@ -45,7 +45,7 @@ Live at: [fitforge.18-221-88-168.sslip.io](https://fitforge.18-221-88-168.sslip.
 
 🔗 Repository
 
-https://github.com/shirisha456/FitForge
+https://github.com/shirisha456/Fitness_Tracker
 
 ---
 
