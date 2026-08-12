@@ -26,7 +26,7 @@ I enjoy building scalable backend systems, AI-powered applications, and cloud-na
 
 An AI-powered fitness platform that delivers personalized workouts, meal plans, and intelligent coaching experiences through modern cloud-native architecture.
 
-Instead of static fitness applications, FitForge combines AI with scalable backend services to provide personalized recommendations while ensuring secure authentication, responsive APIs, and production-ready deployment.
+Instead of static fitness applications, this project combines AI with scalable backend services to provide personalized recommendations while ensuring secure authentication, responsive APIs, and production-ready deployment.
 
 ### Highlights
 
@@ -53,7 +53,7 @@ https://github.com/shirisha456/Fitness_Tracker
 
 A cloud-native personal finance platform that helps users manage budgets, investments, and financial goals using AI-powered insights and scalable event-driven architecture.
 
-Meridian automates financial tracking while providing intelligent recommendations, analytics dashboards, and real-time financial monitoring.
+This project automates financial tracking while providing intelligent recommendations, analytics dashboards, and real-time financial monitoring.
 
 ### Highlights
 
@@ -70,7 +70,7 @@ FastAPI • PostgreSQL • Redis • Docker • AWS • OpenAI
 
 🔗 Repository
 
-[https://github.com/shirisha456/Meridian](https://github.com/shirisha456/Personal-Finance-Platform)
+(https://github.com/shirisha456/Personal-Finance-Platform)](https://github.com/shirisha456/Personal-Finance-Platform)
 
 ---
 
