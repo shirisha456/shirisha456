@@ -16,7 +16,7 @@ Building scalable backend systems, AI-powered applications, and cloud-native sof
 
 I'm currently pursuing my **Master's in Software Engineering at San José State University**, after working as a **Software Development Engineer at S&P Global**.
 
-I'm interested in distributed systems, developer tools, AI infrastructure, and designing reliable software that solves real-world problems.
+I'm particularly interested in backend engineering, distributed systems, APIs, and AI/LLM applications. I enjoy building reliable software and working through the technical challenges involved in designing and maintaining complex systems.
 
 ### Focus Areas
 
